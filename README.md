@@ -40,15 +40,16 @@ University: University of Electronic Science and Technology of China
 ---
 
 ### Part 4 - CNN Based AMC
-
+upload after 2019.7
 
 ---
 
 ### Part 5 - RNN Based AMC
-
+upload after 2019.7 
 
 ---
 
 ### Part 6 - CNN with Transfer Learning on AMC
+upload after 2019.7
 
 ---
