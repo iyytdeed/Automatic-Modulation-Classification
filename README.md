@@ -15,7 +15,16 @@ University: University of Electronic Science and Technology of China
 
 ---
 
-### Part 1 - Cumulant Based AMC
+### Part 1 - Likelihood Based AMC
+- simulation of paper - F. Hameed, O. A. Dobre, D. Popescu. On the likelihood-based approach to modulation classification[J]. IEEE Transactions on Wireless Communications, 2009, 8(12): 5884-5892 - fig.6 ALRT-UB for {BPSK, QPSK}
+- AWGN Channel
+- Rayleigh Channel
+- Freqency Offset
+- Phase Jitter
+
+---
+
+### Part 2 - Cumulant Based AMC
 - simulation of paper - A. Swami, B. M Sadler. Hierarchical digital modulation classification using cumulants[J].IEEE Transactions on communications, 2000, 48(3): 416-429
 - extract cumulant features
 - cumulant features + thershold classifer
@@ -23,26 +32,23 @@ University: University of Electronic Science and Technology of China
 
 ---
 
-
-### Part 2 - Instantaneous Signal Feature Based AMC
-- extract instantaneous features
+### Part 3 - Instantaneous Signal Feature Based AMC
+- extract instantaneous features - refer paper: E. E. Azzouz, A. K. Nandi. Automatic identification of digital modulation types[J]. Signal Processing, 1995, 47(1):55-69
 - instantaneous features + decision tree classifer
 - instantaneous features + neural network classifer
 
-
 ---
 
-### Part 3 - CNN Based AMC
-
-
----
-
-### Part 4 - RNN Based AMC
+### Part 4 - CNN Based AMC
 
 
 ---
 
-### Part 5 - CNN with Transfer Learning on AMC
+### Part 5 - RNN Based AMC
+
 
 ---
 
+### Part 6 - CNN with Transfer Learning on AMC
+
+---
