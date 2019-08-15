@@ -12,6 +12,14 @@ School: National Key Laboratory of Science and Technology on Communication
 
 University: University of Electronic Science and Technology of China
 
+Version: Matlab2017a Python2.7.15 Keras2.2 Tensorflow(i forget :p)
+
+Some Note:
+
+Hope these code will be helpful for someone like me who struggled for a master degree.
+
+thx.
+
 2019.6.30
 
 ---
