@@ -18,7 +18,9 @@ Some Note:
 
 Hope these code will be helpful for someone like me who struggled for a master degree.
 
-thx.
+Not Guaranteed To Be Correct.
+
+Thank you for reading.
 
 2019.6.30
 
@@ -66,7 +68,3 @@ upload after 2019.7
 ### Part 7 - Transfer Learning with CNN
 
 ---
-
-### notify
-Experiment Code.
-Not Guaranteed To Be Correct !!!
