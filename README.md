@@ -51,12 +51,17 @@ Thank you for reading.
 ---
 
 ### Part 4 - CNN Based AMC
-upload after 2019.7
+upload complete.
+some result will be upload after a while.
+- Paper Recommand:
+
 
 ---
 
 ### Part 5 - RNN Based AMC
-upload after 2019.7 
+upload complete.
+some result will be upload after a while.
+- Paper Recommand:
 
 ---
 
