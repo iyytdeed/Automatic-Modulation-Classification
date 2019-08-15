@@ -54,3 +54,11 @@ upload after 2019.7
 upload after 2019.7
 
 ---
+
+### Part 7 - Transfer Learning with CNN
+
+---
+
+### notify
+Experiment Code.
+Not Guaranteed To Be Correct !!!
