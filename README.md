@@ -12,6 +12,20 @@ School: National Key Laboratory of Science and Technology on Communication
 
 University: University of Electronic Science and Technology of China
 
+Version: Matlab2017a Python2.7.15 Keras2.2 Tensorflow(i forget :p)
+
+&nbsp;
+
+Some Notes:
+
+Hope these code will be helpful for someone like me who struggled for a master degree.
+
+If these codes are helpful for you. Plz click star to support me :)
+
+Not Guaranteed To Be Correct.
+
+Thank you for reading.
+
 2019.6.30
 
 ---
@@ -41,12 +55,17 @@ University: University of Electronic Science and Technology of China
 ---
 
 ### Part 4 - CNN Based AMC
-upload after 2019.7
+upload complete.
+some result will be upload after a while.
+- Paper Recommand:
+
 
 ---
 
 ### Part 5 - RNN Based AMC
-upload after 2019.7 
+upload complete.
+some result will be upload after a while.
+- Paper Recommand:
 
 ---
 
@@ -54,3 +73,4 @@ upload after 2019.7
 upload after 2019.7
 
 ---
+
