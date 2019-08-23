@@ -26,6 +26,8 @@ Not Guaranteed To Be Correct.
 
 Thank you for reading.
 
+√ Link of Master Thesis will be given here when it can be searched by cnki.
+
 2019.8.23 Update Stop.
 
 ---
@@ -93,6 +95,4 @@ S. Hu, Y. Pei, P. P. Liang, et al. Robust Modulation Classification under Uncert
 Paper Recommend:
 
 J. Yosinski, J. Clune, A. Nguyen, et al. Understanding neural networks through deep visualization[J]. arXiv preprint arXiv:1506.06579, 2015
-
----
 
