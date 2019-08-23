@@ -2,8 +2,8 @@ Transfer Learning with CNN on AMC
 
 Motivation:
 Some features of AWGN signals are also useful to Rayleigh signals, which helpful for:
-1.reduce training cost(time/numbers of labeled data).
-2.promote performance of classification problem about rayleigh signals.
+1. reduce training cost(time/numbers of labeled data).
+2. promote performance of classification problem about rayleigh signals.
 
 Steps:
 1. pretrain CNN us 
