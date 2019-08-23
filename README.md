@@ -30,7 +30,7 @@ Thank you for reading.
 
 ---
 
-### Part 0 - CNN Based AMC
+### Part 0 - dataset
 - AWGN channel signals
 - Rayleigh channel signals
 
@@ -66,8 +66,10 @@ Thank you for reading.
 - Some Result
 
 Paper Recommend:
-  - J. O’Shea, T. Roy, T. C. Clancy. Over-the-air deep learning based radio signal classification[J]. IEEE Journal of Selected Topics in Signal Processing, 2018, 12(1): 168-179
-  - F. Meng, P. Chen, L. Wu, et al. Automatic modulation classification: A deep learning enabled approach[J]. IEEE Transactions on Vehicular Technology, 2018, 67(11): 10760-10772
+  
+J. O’Shea, T. Roy, T. C. Clancy. Over-the-air deep learning based radio signal classification[J]. IEEE Journal of Selected Topics in Signal Processing, 2018, 12(1): 168-179
+  
+F. Meng, P. Chen, L. Wu, et al. Automatic modulation classification: A deep learning enabled approach[J]. IEEE Transactions on Vehicular Technology, 2018, 67(11): 10760-10772
 
 ---
 
@@ -75,17 +77,22 @@ Paper Recommend:
 - Train RNN(SimpleRNN GRU LSTM) Model
 - Test RNN Model 
 - Some Result
+
 Paper Recommend:
-  - S. Rajendran, W. Meert, D. Giustiniano, et al. Deep Learning Models for Wireless Signal Classification with Distributed Low-Cost Spectrum Sensors[J]. IEEE Transactions on Cognitive Communications and Networking, 2018, 11(99):1-13
-  - S. Hu, Y. Pei, P. P. Liang, et al. Robust Modulation Classification under Uncertain Noise Condition Using Recurrent Neural Network[C]. IEEE Global Communications Conference, 2018, 1-7
+
+S. Rajendran, W. Meert, D. Giustiniano, et al. Deep Learning Models for Wireless Signal Classification with Distributed Low-Cost Spectrum Sensors[J]. IEEE Transactions on Cognitive Communications and Networking, 2018, 11(99):1-13
+
+S. Hu, Y. Pei, P. P. Liang, et al. Robust Modulation Classification under Uncertain Noise Condition Using Recurrent Neural Network[C]. IEEE Global Communications Conference, 2018, 1-7
 
 ---
 
 ### Part 6 - CNN with Transfer Learning on AMC
 - Pretrain CNN(labeled data - ordinary training method/ unlabeled data - autoencoder)
 - Retrain or Finetune CNN
+
 Paper Recommend:
-  - J. Yosinski, J. Clune, A. Nguyen, et al. Understanding neural networks through deep visualization[J]. arXiv preprint arXiv:1506.06579, 2015
+
+J. Yosinski, J. Clune, A. Nguyen, et al. Understanding neural networks through deep visualization[J]. arXiv preprint arXiv:1506.06579, 2015
 
 ---
 
