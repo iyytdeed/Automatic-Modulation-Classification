@@ -30,6 +30,12 @@ Thank you for reading.
 
 ---
 
+### Part 0 - CNN Based AMC
+- AWGN channel signals
+- Rayleigh channel signals
+
+---
+
 ### Part 1 - Likelihood Based AMC
 - simulation of paper - F. Hameed, O. A. Dobre, D. Popescu. On the likelihood-based approach to modulation classification[J]. IEEE Transactions on Wireless Communications, 2009, 8(12): 5884-5892 - fig.6 ALRT-UB for {BPSK, QPSK}
 - AWGN Channel
@@ -55,27 +61,30 @@ Thank you for reading.
 ---
 
 ### Part 4 - CNN Based AMC
-upload complete.
-some result will be upload after a while.
-- Paper Recommend:
+- Train CNN Model
+- Test CNN Model
+- Some Result
+
+Paper Recommend:
   - J. O’Shea, T. Roy, T. C. Clancy. Over-the-air deep learning based radio signal classification[J]. IEEE Journal of Selected Topics in Signal Processing, 2018, 12(1): 168-179
   - F. Meng, P. Chen, L. Wu, et al. Automatic modulation classification: A deep learning enabled approach[J]. IEEE Transactions on Vehicular Technology, 2018, 67(11): 10760-10772
-
 
 ---
 
 ### Part 5 - RNN Based AMC
-upload complete.
-some result will be upload after a while.
-- Paper Recommend:
+- Train RNN(SimpleRNN GRU LSTM) Model
+- Test RNN Model 
+- Some Result
+Paper Recommend:
   - S. Rajendran, W. Meert, D. Giustiniano, et al. Deep Learning Models for Wireless Signal Classification with Distributed Low-Cost Spectrum Sensors[J]. IEEE Transactions on Cognitive Communications and Networking, 2018, 11(99):1-13
   - S. Hu, Y. Pei, P. P. Liang, et al. Robust Modulation Classification under Uncertain Noise Condition Using Recurrent Neural Network[C]. IEEE Global Communications Conference, 2018, 1-7
 
 ---
 
 ### Part 6 - CNN with Transfer Learning on AMC
-upload complete.
-- Paper Recommend:
+- Pretrain CNN(labeled data - ordinary training method/ unlabeled data - autoencoder)
+- Retrain or Finetune CNN
+Paper Recommend:
   - J. Yosinski, J. Clune, A. Nguyen, et al. Understanding neural networks through deep visualization[J]. arXiv preprint arXiv:1506.06579, 2015
 
 ---
