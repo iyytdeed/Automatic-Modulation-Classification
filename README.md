@@ -6,8 +6,6 @@ Research on Deep Learning Based Modulation Recognition Technologies
 
 Author: ZhiKun Lei
 
-Lab: Center for Intelligent Network and Communication
-
 School: National Key Laboratory of Science and Technology on Communication
 
 University: University of Electronic Science and Technology of China
