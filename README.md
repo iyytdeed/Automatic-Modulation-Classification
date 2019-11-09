@@ -24,7 +24,8 @@ Not Guaranteed To Be Correct.
 
 Thank you for reading.
 
-√ Link of Master Thesis will be given here when it can be searched by cnki.
+Master Thesis Link:
+https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFDTEMP&filename=1019850977.nh&uid=WEEvREcwSlJHSldRa1FhcTdWa2FjVHcwaStHZTFIVEJVYkh4N295WCtaWT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MTI1ODRSTE9lWnVabUZ5M21VN3ZCVkYyNkY3dTlIdGpMcUpFYlBJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1U=
 
 2019.8.23 Update Stop.
 
